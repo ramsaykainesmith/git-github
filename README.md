@@ -1,2 +1,2 @@
 # git-github
-A project to practice git
+A project to practice git.
